@@ -1,0 +1,19 @@
+{
+  "id": "afc6c2f7-b408-4f02-a6bb-359bbf50e8df",
+  "name": "67.ConditionalAndCompoundStatements",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
